@@ -1,0 +1,1 @@
+This repository contains the code that I do as a practice daily while getting to know things better. The programs are very basic. I have created this repository for practice.
